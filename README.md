@@ -1,4 +1,4 @@
-#Version Controller for Frankly Prompt
+# Version Controller for Frankly Prompt
 
-##Returns the latest Version of the Extension and also serves the extension.
+## Returns the latest Version of the Extension and also serves the extension.
 
