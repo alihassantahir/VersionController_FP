@@ -11,7 +11,7 @@ You can deploy this project on **Vercel** so it can serve the extension and prov
 
 1. Go to [Vercel](https://vercel.com/) and log in.
 2. Click **New Project** → **Import Git Repository** -> **Import Third-Party Git Repository**
-3. Paste this url: "https://github.com/alihassantahir/VersionController_FP" and click continue
+3. Paste this URL: `https://github.com/alihassantahir/VersionController_FP` and click continue
 5. Click **Deploy**.
 6. After deployment, your project will have a **primary URL**, e.g.,  
    `https://version-controller-fp-umn6.vercel.app`.  
